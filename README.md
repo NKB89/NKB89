@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NKB89
-- 👀 I’m interested in golf and play as much as I can. Been playing 3 years on May 1st 2024 and currently an 8.1 HCP. 
-- 🌱 I’m currently learning programming, mostly Python, a little C++ and Java. I switched from elelctrical engineering and starting education February 1st 20224.
+- 👀 I’m interested in golf and play as much as I can. 
+- 🌱 I’m currently learning programming, mostly Python, a little C++ and Java. Starting education in February. 
 - 💞️ I’m looking to collaborate on anything that helps me in my journey as a programmer. 
 - 📫 How to reach me - I'm on Discord, my username is nkbdallas. 
 
