@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NKB89
 - 👀 I’m interested in golf and play as much as I can. 
-- 🌱 I’m currently learning programming, mostly Python, a little C++ and Java. Starting education in February. 
+- 🌱 I’m currently studying to become a programmer - C# is my main lauguage.
 - 💞️ I’m looking to collaborate on anything that helps me in my journey as a programmer. 
 - 📫 How to reach me - I'm on Discord, my username is nkbdallas. 
 
